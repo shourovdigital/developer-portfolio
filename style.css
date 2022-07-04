@@ -8,3 +8,7 @@ h1{
 section{
     display: flex;
 }
+.half-width{
+    width: 50%;
+    margin: 15px;
+}
